@@ -2,7 +2,7 @@
 
 ### [sjPlot - Data Visualization for Statistics in Social Science](https://strengejacke.github.io/sjPlot/)
 
-### [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf)
+### [R para cientistas sociais (Jakson de Aquino)](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf); [Minicurso Metodologia Quantitativa | Prof. Jakson de Aquino](https://www.youtube.com/watch?v=sL_qQLofz3g)
 
 ### [D-Lab - The social science data lab at UC Berkeley](https://github.com/dlab-berkeley?fbclid=IwAR161W8t0Qj0fJMVP0RH0PmHT-co1cA951FnlbYOBgrAK-4ucGWahWcQlsE)
 
