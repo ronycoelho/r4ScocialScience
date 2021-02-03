@@ -9,3 +9,6 @@
 #### [R para cientistas sociais](https://observare.slg.br/rparacs/); [canal youtube](https://www.youtube.com/watch?v=pbqPaDIWtcI&list=PLVvXRgHg-Bo5ctdvuNnfP7x0EHeRqalcv); [github:harlonromariz/rparacs](https://github.com/harlonromariz/rparacs) 
 
 #### [Analise de Dados para as Ciencias Sociais](https://jonnyphillips.github.io/Ciencia_de_Dados/)
+
+#### [Text as Data para Ciências Sociais](https://bookdown.org/davi_moreira/txt4cs/)
+
