@@ -1,5 +1,7 @@
 # Sources for Social Science
 
+[Usando R: Um Guia para Cientistas Políticos](http://electionsbr.com/livro/introducao-ao-r.html)
+
 [sjPlot - Data Visualization for Statistics in Social Science](https://strengejacke.github.io/sjPlot/)
 
 [R para cientistas sociais (Jakson de Aquino)](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf); [Minicurso Metodologia Quantitativa | Prof. Jakson de Aquino](https://www.youtube.com/watch?v=sL_qQLofz3g)
