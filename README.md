@@ -2,6 +2,8 @@
 
 [Usando R: Um Guia para Cientistas Políticos](http://electionsbr.com/livro/introducao-ao-r.html)
 
+[Análise de Dados para Ciências Sociais com Felipe Nunes (UFMG)](https://www.youtube.com/watch?v=ndKq0dsXa3k&list=PL7Xpx-hrPv-F7ac1yjPYHLdzuK8Op99Qt)
+
 [sjPlot - Data Visualization for Statistics in Social Science](https://strengejacke.github.io/sjPlot/)
 
 [R para cientistas sociais (Jakson de Aquino)](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf); [Minicurso Metodologia Quantitativa | Prof. Jakson de Aquino](https://www.youtube.com/watch?v=sL_qQLofz3g)
