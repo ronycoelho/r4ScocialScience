@@ -1,5 +1,7 @@
 # Sources for Social Science
 
+[Programação para Humanidades](https://github.com/p4hUSP)
+
 [Usando R: Um Guia para Cientistas Políticos](http://electionsbr.com/livro/introducao-ao-r.html)
 
 [Análise de Dados para Ciências Sociais com Felipe Nunes (UFMG)](https://www.youtube.com/watch?v=ndKq0dsXa3k&list=PL7Xpx-hrPv-F7ac1yjPYHLdzuK8Op99Qt)
