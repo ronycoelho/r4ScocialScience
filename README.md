@@ -18,3 +18,5 @@
 
 [Text as Data para Ciências Sociais](https://bookdown.org/davi_moreira/txt4cs/)
 
+[Análise de Dados para as Ciências Sociais](https://jonnyphillips.github.io/Ciencia_de_Dados/)
+
